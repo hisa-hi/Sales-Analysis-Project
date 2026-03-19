@@ -40,4 +40,4 @@ Python（Pandas/Matplotlib）を使用して「売上と利益の相関」や「
     - `Sales_Analysis_Report.xlsx` (集計レポート)
 
 ## 5. 著者
-[hisato-yamamoto]
+[山本ひさと]
